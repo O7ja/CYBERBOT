@@ -12,8 +12,8 @@ import glob
 
 # Page configuration
 st.set_page_config(
-    page_title="RAG Chatbot",
-    page_icon="🤖",
+    page_title="CYBERBOT",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
